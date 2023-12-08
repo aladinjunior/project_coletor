@@ -4,7 +4,12 @@
 <img alt ="screenshot" width="40%" src="features/shot1.jpg"/>
   <img alt ="screenshot" width="40%" src="features/shot2.jpg"/>
    <img alt ="screenshot" width="40%" src="features/shot3.jpg"/>
-  <img src="features/features.gif" width="40%"/>
+ 
+</p>
+
+## HOW IT WORKS?
+<p float="left" align="start">
+ <img src="features/features.gif" width="40%"/>
 </p>
 
 ## ABOUT THIS PROJECT 
